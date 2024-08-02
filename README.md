@@ -1,6 +1,4 @@
-Header
-
-
+![](https://github.com/MatveySDK/source-engine/blob/main/assets-github/header.png)
 
 Information from [Wikipedia](https://wikipedia.org/wiki/Source_(game_engine)):
 
@@ -35,7 +33,7 @@ This project is using waf buildsystem. If you have waf-related questions look ht
 - Ease of use
 
 # How to use?
-
+- [GitHub Wiki](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 # Support me
-
+- [Trade Steam](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
