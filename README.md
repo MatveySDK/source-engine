@@ -34,7 +34,7 @@ This project is using waf buildsystem. If you have waf-related questions look ht
 - Ease of use
 
 # How to use?
-- [GitHub Wiki](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+- [GitHub Wiki [Windows]](https://github.com/MatveySDK/source-engine/wiki/Guide-to-installing-source%E2%80%90engine-on-Windows)
 
 # Support me
 - [Trade Steam](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
