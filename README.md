@@ -13,8 +13,8 @@ This project is using waf buildsystem. If you have waf-related questions look ht
 > This repository is just a spare mirror of the project from @nillerusr, and cloned to use in our developments
 
 # Features:
-- Android, OSX, FreeBSD, Windows, Linux( glibc, musl ) support
-- Arm support( except windows )
+- Android, OSX, FreeBSD, Windows, Linux (glibc, musl) support
+- Arm support (except windows)
 - 64bit support
 - Modern toolchains support
 - Fixed many undefined behaviours
