@@ -1,4 +1,4 @@
-![](https://github.com/MatveySDK/source-engine/blob/main/assets-github/header.png)
+![](https://github.com/MatveySDK/source-engine/blob/main/assets-github/header_main.png)
 
 Information from [Wikipedia](https://wikipedia.org/wiki/Source_(game_engine)):
 
