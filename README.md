@@ -10,6 +10,7 @@ Source does not have a concise version numbering scheme; instead, it was release
 Source code is based on TF2 2018 leak. Don't use it for commercial purposes.
 
 This project is using waf buildsystem. If you have waf-related questions look https://waf.io/book
+> This repository is just a spare mirror of the project from @nillerusr, and cloned to use with your developments
 
 # Features:
 - Android, OSX, FreeBSD, Windows, Linux( glibc, musl ) support
